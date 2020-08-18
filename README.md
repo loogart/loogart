@@ -1,4 +1,5 @@
-### Hi there 👋
+### I love where art and web intersect. 👋
+Loogart is a Montreal-raised visual designer who specializes in illustration, brand identity, motion graphics and web design.
 
 <!--
 **loogart/loogart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
