@@ -1,17 +1,15 @@
+# Loogart
 ### I love where art and web intersect. 👋
-Loogart is a Montreal-raised visual designer who specializes in illustration, brand identity, motion graphics and web design.
+This is where I find happiness in my work.
 
-<!--
-**loogart/loogart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey! My name is Chris Soueidan A.K.A. Loogart. I'm  a Montreal-raised visual designer who specializes in illustration, brand identity, motion graphics and web design. I currently live in the Outaouais area and I am raising twins as well as my front-end web development skills.
 
-Here are some ideas to get you started:
+![Montreal City artwork by Loogart](https://loogart.com/img/loogart-montreal-mashup.jpg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on too many projects at the same time.
+- 🌱 I’m currently learning Javascript basics.
+- 👯 I’m looking to collaborate on illustration and web design work.
+- 📫 How to reach me: chris@loogart.com
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I have a pug. He's my first child.
