@@ -12,4 +12,4 @@ Hey! My name is Chris Soueidan A.K.A. Loogart. I'm  a Montreal-raised visual des
 - 👯 I’m looking to collaborate on illustration and web design work.
 - 📫 How to reach me: chris@loogart.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I have a pug. He's my first child.
+- ⚡ Fun fact: I have 2 kids, 3 pugs.
